@@ -1,0 +1,15 @@
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.deps.json
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.dll
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.DataAccess.pdb
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.Entities.dll
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\bin\Debug\net5.0\Northwind.Entities.pdb
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.dll
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\ref\Northwind.DataAccess.dll
+C:\Users\Wissen\Downloads\TheNorthwind\Northwind.DataAccess\obj\Debug\net5.0\Northwind.DataAccess.pdb
